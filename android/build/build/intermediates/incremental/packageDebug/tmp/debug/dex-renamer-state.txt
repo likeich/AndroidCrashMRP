@@ -1,0 +1,4 @@
+#Tue Oct 12 08:57:58 EDT 2021
+base.0=/home/kyle/Documents/GodotProjects/AndroidCrashMRP/android/build/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
